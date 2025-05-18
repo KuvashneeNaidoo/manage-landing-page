@@ -1,0 +1,6 @@
+Following traversy media
+Using older tailwindcss version 3.4.17
+Installation guidelines: https://v3.tailwindcss.com/docs/installation
+
+"build": "tailwindcss -i ./input.css -o ./css/main.css", // watch the input file and then output it in the main.css file (what we include in html)
+"watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"// constantly watch the file to do our development 
